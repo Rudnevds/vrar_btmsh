@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano15_title"><![CDATA[Вход]]></data>
+
+
+  <data name="en_pano9_title"><![CDATA[Лаборатория информационных технологий в профессиональной деятельности]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[Лаборатория информационных технологий в профессиональной деятельности]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[ Кабинет информатики]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[Кабинет информатики и информационных технологий ]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[Лаборатория технических средств обучения]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[Коридор]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[Центр проведения демонстрационного экзамена по стандартам Ворлдскиллс по компетенциям: «Программные решения для бизнеса» специальности 09.02.07. Информационные системы и программирование и «Бухгалтерский учет» специальности 38.02.01 «Экономика и бухгалтерский учет»]]></data>
+  <data name="en_spotpoint89_tooltip"><![CDATA[Лаборатория технических средств обучения]]></data>
+  <data name="en_spotpoint248_tooltip"><![CDATA[Кабинет информатики]]></data>
+  <data name="en_spotpoint294_tooltip"><![CDATA[Кабинет информатики и информационных технологий]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[Коридор]]></data>
+  <data name="en_spotpoint140_tooltip"><![CDATA[Центр проведения демонстрационного экзамена по стандартам Ворлдскиллс по компетенциям: «Программные решения для бизнеса» специальности 09.02.07. Информационные системы и программирование и «Бухгалтерский учет» специальности 38.02.01 «Экономика и бухгалтерский учет»]]></data>
+  <data name="en_spotpoint141_tooltip"><![CDATA[Лаборатория технических средств обучения]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[ лаборатория информатики]]></data>
+
+
+	<data name="en_spotmap441_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap442_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap443_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap444_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap445_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap446_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap447_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap448_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap449_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="en_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="en_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="en_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_dockedThumbnailsdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_dockedThumbnailshideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
